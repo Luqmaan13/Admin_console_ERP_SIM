@@ -1,0 +1,45 @@
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.exe.config
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.exe
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.pdb
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.xml
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.vbprojResolveAssemblyReference.cache
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.AdminHomeForm.resources
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.Resources.resources
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.vbproj.GenerateResource.Cache
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.vbproj.CoreCompileInputs.cache
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.exe
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.xml
+U:\Courses\Project\New folder\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.pdb
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.exe.config
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.exe
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.pdb
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\bin\Debug\erpsimAdminConsole.xml
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.vbprojResolveAssemblyReference.cache
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.AdminHomeForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.Resources.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.vbproj.GenerateResource.Cache
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.vbproj.CoreCompileInputs.cache
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.exe
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.xml
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.pdb
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.ParticipantsForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.ManageTeams.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.NewCompanyForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EmailForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.UpdateParticipantForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EventForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.NewEventForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EditEventForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.NewTeamForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.CompanyForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EditTeamForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.ManageMentorsForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.PracticeForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.NewPracticeForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EditPracticeForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.AttendanceForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EditCompanyForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.NewMentorForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.MentorsForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EditMentorsForm.resources
+U:\Courses\Project\AdminConsole\erpsimAdminConsole\erpsimAdminConsole\obj\Debug\erpsimAdminConsole.EmailListForm.resources
